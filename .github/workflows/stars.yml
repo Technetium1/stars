@@ -1,0 +1,38 @@
+name: Stars
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  pullstars:
+    name: Run Starred
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      # Minimum Python 3.10 https://github.com/maguowei/starred/blob/master/pyproject.toml
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          python -m pip install --upgrade pip wheel setuptools
+          python -m pip install starred
+      - name: Store Repo Name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      - name: Update by language
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Update stars by language'
+      - name: Update by topic
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Update stars by topic' --topic --topic_limit 500 --filename topics.md
