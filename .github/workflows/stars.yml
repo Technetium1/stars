@@ -1,9 +1,9 @@
 name: Stars
 
 on:
-  # run automatically every 6 hours
+  # run automatically every 12 hours
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -12,7 +12,7 @@ jobs:
   pullstars:
     name: Run Starred
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       # Minimum Python 3.10 https://github.com/maguowei/starred/blob/master/pyproject.toml
