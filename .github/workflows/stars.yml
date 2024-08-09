@@ -12,7 +12,7 @@ jobs:
   pullstars:
     name: Run Starred
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    #timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       # Minimum Python 3.10 https://github.com/maguowei/starred/blob/master/pyproject.toml
