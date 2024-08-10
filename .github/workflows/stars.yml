@@ -1,9 +1,9 @@
 name: Stars
 
 on:
-  # run automatically every 12 hours
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
