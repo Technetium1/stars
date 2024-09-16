@@ -3037,6 +3037,7 @@
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [woooferz/skarf](https://github.com/woooferz/skarf) - A self-hosted linktree.
 - [octosavvi/ESPKey](https://github.com/octosavvi/ESPKey) - Wiegand data logger, replay device and micro door-controller
+- [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
@@ -3482,6 +3483,8 @@
 
 ## JavaScript 
 
+- [themoeway/yomitan](https://github.com/themoeway/yomitan) - Pop-up dictionary browser extension. Successor to Yomichan.
+- [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [EmuDeck/emudeck-electron-beta](https://github.com/EmuDeck/emudeck-electron-beta) - Beta Testing
 - [croservices/cro](https://github.com/croservices/cro) - Development tools for building services and distributed systems in Raku using the Cro libraries.
@@ -4252,7 +4255,6 @@
 - [dbkaplun/github-markdown-outline-extension](https://github.com/dbkaplun/github-markdown-outline-extension) - Displays a clickable outline/table of contents of all topic headers for markdown documents on Github
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
-- [bevacqua/twitter-for-github](https://github.com/bevacqua/twitter-for-github) - :hatched_chick: Twitter handles for GitHub
 - [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
@@ -4926,7 +4928,7 @@
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime]
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
@@ -5116,7 +5118,6 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
 - [An00nymushun/DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) - Convert APNG and Lottie into GIF on Discord
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -5782,6 +5783,7 @@
 
 ## Python 
 
+- [hadijaveed/docker-compose-anywhere](https://github.com/hadijaveed/docker-compose-anywhere) - Effortlessly deploy Docker Compose apps in production with zero downtime using an opinionated template 🛠️
 - [sublime-music/sublime-music](https://github.com/sublime-music/sublime-music) - A native Gonic/Subsonic/Airsonic/*sonic client for Linux. Built using Python and GTK+.
 - [controlecidadao/samantha_ia](https://github.com/controlecidadao/samantha_ia) - Experimental interface environment designed to democratize the use of open source large language models.
 - [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - 
