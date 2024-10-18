@@ -1263,7 +1263,7 @@
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) - Capture and analyze the high-level performance characteristics of graphics applications on Windows.
-- [eneshecan/whatsapp-for-linux](https://github.com/eneshecan/whatsapp-for-linux) - An unofficial WhatsApp desktop application for Linux.
+- [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos) - An unofficial WhatsApp desktop application for Linux.
 - [revng/revng-c](https://github.com/revng/revng-c) - 
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
@@ -2237,6 +2237,8 @@
 
 ## Go 
 
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
+- [dalibo/ldap2pg](https://github.com/dalibo/ldap2pg) - :elephant: :busts_in_silhouette: Manage PostgreSQL roles and privileges from YAML or LDAP
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
@@ -3027,6 +3029,7 @@
 
 ## HTML 
 
+- [dalibo/explain.dalibo.com](https://github.com/dalibo/explain.dalibo.com) - PEV2 Flask service. Visualizing and understanding PostgreSQL EXPLAIN plans made easy.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [DS-Homebrew/wiki](https://github.com/DS-Homebrew/wiki) - Wikis for DS-Homebrew projects
 - [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
@@ -3539,6 +3542,9 @@
 
 ## JavaScript 
 
+- [holepunchto/udx-native](https://github.com/holepunchto/udx-native) - udx is reliable, multiplexed, and congestion-controlled streams over udp
+- [holepunchto/hyperdht](https://github.com/holepunchto/hyperdht) - The DHT powering Hyperswarm
+- [holepunchto/pear](https://github.com/holepunchto/pear) - combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool
 - [RangerMauve/mutable-webtorrent](https://github.com/RangerMauve/mutable-webtorrent) - Create / Load / Seed mutable webtorrents (BEP 46)
 - [holepunchto/hyperswarm](https://github.com/holepunchto/hyperswarm) - A distributed networking stack for connecting peers.
 - [samooth/bitbeam](https://github.com/samooth/bitbeam) - A 1-1 end-to-end encrypted internet pipe powered by Hyperswarm & Bitcoin
@@ -3621,13 +3627,11 @@
 - [machawk1/Mink](https://github.com/machawk1/Mink) - Chrome extension that uses Memento to indicate that a page a user is viewing on the live web has an archived copy and to give the user access to the copy
 - [machawk1/warcreate](https://github.com/machawk1/warcreate) - Chrome extension to "Create WARC files from any webpage"
 - [harvard-lil/scoop](https://github.com/harvard-lil/scoop) - 🍨 High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web.
-- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [assetgraph/assetgraph](https://github.com/assetgraph/assetgraph) - Optimization framework for web pages and applications
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
 - [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator. Written for https://pota.quack.uy/
 - [MartinBraquet/youtube-adblock](https://github.com/MartinBraquet/youtube-adblock) - Mozilla Firefox Add-On Accelerating and Skipping YouTube Ads in Less Than a Second
-- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -4691,6 +4695,7 @@
 - [oborchers/Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
 - [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator) - AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved v
 - [camenduru/LivePortrait-jupyter](https://github.com/camenduru/LivePortrait-jupyter) - 
+- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
 - [pytorch/opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy
 - [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
@@ -5092,6 +5097,7 @@
 
 ## Others 
 
+- [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [centminmod/wordpress-plugin-mirror-poc](https://github.com/centminmod/wordpress-plugin-mirror-poc) - WordPress Plugin Mirror System Proof Of Concept Leveraging Cloudflare
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
@@ -5879,6 +5885,10 @@
 
 ## Python 
 
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
+- [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
+- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
+- [yomidevs/yomitan-mecab-installer](https://github.com/yomidevs/yomitan-mecab-installer) - Install MeCab for Yomitan. Fork of yomichan-mecab-installer.
 - [homebrewltd/ichigo](https://github.com/homebrewltd/ichigo) - Llama3.1 learns to Listen
 - [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) - 
@@ -7172,7 +7182,7 @@
 - [dievus/geeMailUserFinder](https://github.com/dievus/geeMailUserFinder) - Python Gmail User Enumeration Tool
 - [rupa/sprunge](https://github.com/rupa/sprunge) - command line pastebin for google appengine
 - [trigg/Discover](https://github.com/trigg/Discover) - Yet another discord overlay for linux
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [n0kovo/fb_friend_list_scraper](https://github.com/n0kovo/fb_friend_list_scraper) - OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
@@ -8201,7 +8211,8 @@
 
 ## Rust 
 
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.
+- [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) - Rust implementation of the TLSNotary protocol
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
@@ -8381,7 +8392,7 @@
 - [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
@@ -8819,6 +8830,7 @@
 
 ## Shell 
 
+- [dalibo/pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, templates, fonts, and the latex bazaar
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) - Container for DaVinci Resolve installation and runtime dependencies on Linux
 - [SpeechColab/GigaSpeech](https://github.com/SpeechColab/GigaSpeech) - Large, modern dataset for speech recognition
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
@@ -9335,6 +9347,7 @@
 
 ## TeX 
 
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [xamat/TransformerCatalog](https://github.com/xamat/TransformerCatalog) - Sources for my Transformer Catalog publication
 - [circuitikz/circuitikz](https://github.com/circuitikz/circuitikz) - CircuiTikZ TeX/LaTeX package for drawing circuits
@@ -9443,7 +9456,7 @@
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits
@@ -9464,6 +9477,7 @@
 - [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs) - Browser extension for opening lists of URLs built on top of WebExtension with cross-browser support
 - [WebMemex/freeze-dry](https://github.com/WebMemex/freeze-dry) - Snapshots a web page to get it as a static, self-contained HTML document.
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
+- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [1943time/inkdown](https://github.com/1943time/inkdown) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [leona/helix-gpt](https://github.com/leona/helix-gpt) - Code assistant language server for Helix with support for Copilot/OpenAI/Codeium/Ollama
@@ -9487,7 +9501,7 @@
 - [homebridge/homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [monoid-privacy/monoid](https://github.com/monoid-privacy/monoid) - Open-source data privacy
@@ -9637,7 +9651,7 @@
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
@@ -10143,7 +10157,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [standardnotes/mobile](https://github.com/standardnotes/mobile) - [Moved to https://github.com/standardnotes/app] Standard Notes for iOS and Android - https://standardnotes.com
-- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
