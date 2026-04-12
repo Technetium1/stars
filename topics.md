@@ -306,6 +306,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
+- [termux-tool](#termux-tool)
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -2249,6 +2250,7 @@
 
 ## bugbounty 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [gwen001/github-regexp](https://github.com/gwen001/github-regexp) - Basically a regexp over a GitHub search.
 - [gwen001/github-endpoints](https://github.com/gwen001/github-endpoints) - Find endpoints on GitHub.
@@ -2772,6 +2774,7 @@
 
 ## chrome-extension 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again!
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -4018,6 +4021,7 @@
 
 ## cybersecurity 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
@@ -5165,6 +5169,7 @@
 
 ## docker 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -6839,6 +6844,7 @@
 
 ## go 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
@@ -7125,6 +7131,7 @@
 
 ## golang 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [Zorig/valveFM](https://github.com/Zorig/valveFM) - Vintage FM radio TUI for streaming stations from radio-browser.info.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
@@ -7736,6 +7743,7 @@
 
 ## hacking 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [cpoore1/gr-tpms_poore](https://github.com/cpoore1/gr-tpms_poore) - 
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [nicholasaleks/Awesome-Drone-Hacking](https://github.com/nicholasaleks/Awesome-Drone-Hacking) - A list of awesome drone hacking tools & resources.
@@ -8312,7 +8320,7 @@
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -8791,7 +8799,7 @@
 ## html-css-javascript 
 
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 
 ## html5 
 
@@ -9312,6 +9320,7 @@
 
 ## javascript 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
@@ -9579,7 +9588,7 @@
 - [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
 - [whyboris/Video-Hub-App](https://github.com/whyboris/Video-Hub-App) - Official repository for Video Hub App
 - [askides/aurora](https://github.com/askides/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [miscord/miscord](https://github.com/miscord/miscord) - Facebook Messenger to Discord bridge
@@ -13394,7 +13403,7 @@
 - [ManeraKai/simplytranslate_mobile](https://github.com/ManeraKai/simplytranslate_mobile) - Privacy friendly frontend to Google Translate
 - [whyboris/Video-Hub-App](https://github.com/whyboris/Video-Hub-App) - Official repository for Video Hub App
 - [Trilarion/opensourcegames](https://github.com/Trilarion/opensourcegames) - Technical infos of open source games.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -13662,6 +13671,7 @@
 
 ## osint 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI-powered document intelligence platform for investigative journalism
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
@@ -13724,6 +13734,7 @@
 
 ## others 
 
+- [SpookySkeletons/proton-ge-rtsp](https://github.com/SpookySkeletons/proton-ge-rtsp) - Compatibility tool for Steam Play based on Wine and additional components
 - [kapijawastaken/hid-t80](https://github.com/kapijawastaken/hid-t80) - A feature-complete Linux driver for the Thrustmaster T80 racing wheel.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) - Library for reducing tail latency in RAM reads
@@ -18544,7 +18555,7 @@
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
 - [arso-project/sonar](https://github.com/arso-project/sonar) - A p2p content database and search engine
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon (previously at http://mldonkey.sourceforge.net/)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -18689,6 +18700,7 @@
 
 ## pentesting 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
 - [PentHertz/RF-Swift](https://github.com/PentHertz/RF-Swift) - 🚀 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds on Linux, Windows, and macOS - supporting x86_64, ARM64 (Raspberry Pi, Apple Silico
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
@@ -20346,7 +20358,7 @@
 - [hauxir/rapidbay](https://github.com/hauxir/rapidbay) - Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [Script-Nomad/king-phisher](https://github.com/Script-Nomad/king-phisher) - Phishing Campaign Toolkit
+- [CrimsonForge-io/king-phisher](https://github.com/CrimsonForge-io/king-phisher) - Phishing Campaign Toolkit
 - [tinytag/tinytag](https://github.com/tinytag/tinytag) - Python library for reading audio file metadata
 - [reviewboard/ReviewBot](https://github.com/reviewboard/ReviewBot) - A tool for running automated static analysis on code posted to a Review Board instance.
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
@@ -22084,6 +22096,8 @@
 
 ## security 
 
+- [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively finds leaked API keys, tokens, and secrets on every page you visit. 80+ patterns. Zero config. Manifest V3.
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [bivlked/amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command install script for self-hosted AmneziaWG 2.0 VPN — Ubuntu & Debian, DPI bypass, traffic obfuscation, auto-hardening, client management
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [PentHertz/RF-Swift](https://github.com/PentHertz/RF-Swift) - 🚀 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds on Linux, Windows, and macOS - supporting x86_64, ARM64 (Raspberry Pi, Apple Silico
@@ -22317,7 +22331,7 @@
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
-- [Script-Nomad/king-phisher](https://github.com/Script-Nomad/king-phisher) - Phishing Campaign Toolkit
+- [CrimsonForge-io/king-phisher](https://github.com/CrimsonForge-io/king-phisher) - Phishing Campaign Toolkit
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [nusenu/OrNetRadar](https://github.com/nusenu/OrNetRadar) - Automatically detected Relay Groups on the Tor Network
@@ -22367,6 +22381,7 @@
 
 ## security-tools 
 
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [PentHertz/RF-Swift](https://github.com/PentHertz/RF-Swift) - 🚀 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds on Linux, Windows, and macOS - supporting x86_64, ARM64 (Raspberry Pi, Apple Silico
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
@@ -23656,6 +23671,10 @@
 - [Tmpertor/Raven-Storm](https://github.com/Tmpertor/Raven-Storm) - Raven-Storm is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python. Takedown many connections using several exotic and classic protocols.
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) - Generate and download e-books from online sources.
+
+## termux-tool 
+
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
 
 ## terraform 
 
