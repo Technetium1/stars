@@ -1339,6 +1339,7 @@
 
 ## C++ 
 
+- [boatbod/op25](https://github.com/boatbod/op25) - Fork of osmocom OP25 by boatbod
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [brunoherbelin/vimix](https://github.com/brunoherbelin/vimix) - Live Video Mixer
 - [benkuper/Chataigne](https://github.com/benkuper/Chataigne) - Artist-friendly Modular Machine for Art and Technology
@@ -2588,6 +2589,7 @@
 
 ## Go 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [Zorig/valveFM](https://github.com/Zorig/valveFM) - Vintage FM radio TUI for streaming stations from radio-browser.info.
@@ -2709,7 +2711,7 @@
 - [warewulf/warewulf](https://github.com/warewulf/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [extremecoders-re/nuitka-extractor](https://github.com/extremecoders-re/nuitka-extractor) - Tool to extract nuitka compiled executables
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Network inspector for your backend
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
@@ -4110,6 +4112,7 @@
 
 ## JavaScript 
 
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
 - [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Passive API key and secret discovery browser extension for Chrome and Firefox. 80+ detection patterns, zero config.
 - [Wakamai-Fondue/wakamai-fondue-engine](https://github.com/Wakamai-Fondue/wakamai-fondue-engine) - The engine that powers Wakamai Fondue
@@ -6708,7 +6711,7 @@
 - [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction
 - [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [zigpy/zha-device-handlers](https://github.com/zigpy/zha-device-handlers) - ZHA device handlers bridge the functionality gap created when manufacturers deviate from the ZCL specification, handling deviations and exceptions by parsing custom messages to and from Zigbee devices
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
@@ -9245,6 +9248,7 @@
 
 ## QML 
 
+- [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) - Plasma shell for TVs
 - [KDE/plasma-keyboard](https://github.com/KDE/plasma-keyboard) - Virtual Keyboard for Qt based desktops
 - [Agundur-KDE/KCast](https://github.com/Agundur-KDE/KCast) - KCast is a KDE Plasma 6 widget that lets you cast video files or youtube URLs to a Chromecast devices in your local network. It supports device discovery, local media playback via an embedded HTTP ser
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -10266,6 +10270,7 @@
 
 ## Shell 
 
+- [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [bivlked/amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command install script for self-hosted AmneziaWG 2.0 VPN — Ubuntu & Debian, DPI bypass, traffic obfuscation, auto-hardening, client management
 - [truenas/truenas-proxmox-plugin](https://github.com/truenas/truenas-proxmox-plugin) - For providing seamless block storage to PVE
 - [yuzu-emu-mirror/yuzu-multiplayer-dedicated](https://github.com/yuzu-emu-mirror/yuzu-multiplayer-dedicated) - 
