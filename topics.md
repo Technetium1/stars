@@ -139,6 +139,7 @@
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -387,7 +388,7 @@
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
 - [inngest/agent-kit](https://github.com/inngest/agent-kit) - AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on mcp clients
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -402,6 +403,7 @@
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [vinhnx/VT.ai](https://github.com/vinhnx/VT.ai) - VT.ai - multimodal AI chat app with dynamic conversation routing
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [ParisNeo/lollms_hub](https://github.com/ParisNeo/lollms_hub) - A proxy server for multiple ollama instances with Key security
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -564,7 +566,6 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
@@ -2875,6 +2876,7 @@
 
 ## claude-code 
 
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [arimxyer/models](https://github.com/arimxyer/models) - TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -2885,6 +2887,7 @@
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [alchemiststudiosDOTai/tunacode](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 TunaCode  AI CLI coding agent with safe git branches, rich tools & multi-LLM support.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
 - [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
 ## cli 
@@ -3235,7 +3238,7 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
@@ -3852,7 +3855,7 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -4132,7 +4135,7 @@
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) - 
@@ -4208,7 +4211,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [Desbordante/desbordante-core](https://github.com/Desbordante/desbordante-core) - Desbordante is a high-performance data profiler that is capable of discovering many different patterns in data using various algorithms. It also allows to run data cleaning scenarios using these algor
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope) - 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统
@@ -4511,7 +4514,7 @@
 
 - [LeelaChessZero/lc0](https://github.com/LeelaChessZero/lc0) - Open source neural network chess engine with GPU acceleration and broad hardware support.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [cmusatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [jolibrain/joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image and Video Toolset with GANs and Diffusion for Real-World Applications
@@ -5219,7 +5222,7 @@
 - [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
 - [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
 - [hadijaveed/docker-compose-anywhere](https://github.com/hadijaveed/docker-compose-anywhere) - Effortlessly deploy Docker Compose apps in production with zero downtime using an opinionated template 🛠️
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
@@ -5462,7 +5465,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [oleksis/pyinstaller-manylinux](https://github.com/oleksis/pyinstaller-manylinux) - Run Pyinstaller on ManyLinux 2.28 (x86_64) AlmaLinux 8.7 based using Pyenv
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🌴
+- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
@@ -6537,6 +6540,7 @@
 
 ## gamedev 
 
+- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 - [command-tab/awesome-n64-development](https://github.com/command-tab/awesome-n64-development) - A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
@@ -6850,6 +6854,7 @@
 
 ## go 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -6979,7 +6984,7 @@
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [tylertreat/BoomFilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -7137,6 +7142,7 @@
 
 ## golang 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [Zorig/valveFM](https://github.com/Zorig/valveFM) - Vintage FM radio TUI for streaming stations from radio-browser.info.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -7185,7 +7191,7 @@
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -7664,7 +7670,7 @@
 - [OpenSCAP/scap-workbench](https://github.com/OpenSCAP/scap-workbench) - SCAP Scanner And Tailoring Graphical User Interface
 - [Plutoberth/SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
@@ -7746,6 +7752,27 @@
 - [engintron/engintron](https://github.com/engintron/engintron) - Engintron for cPanel/WHM is the easiest way to integrate Nginx on your cPanel/WHM server. Engintron will improve the performance & web serving capacity of your server, while reducing CPU/RAM load at t
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
+
+## hack 
+
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
+- [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
+- [scanmem/scanmem](https://github.com/scanmem/scanmem) - memory scanner for Linux
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
+- [spicesouls/reosploit](https://github.com/spicesouls/reosploit) - A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+- [roleoroleo/yi-hack_ha_integration](https://github.com/roleoroleo/yi-hack_ha_integration) - Home Assistant custom integration for Yi cameras: yi-hack-MStar, yi-hack-Allwinner, yi-hack-Allwinner-v2, yi-hack-v5 and sonoff-hack
+- [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
+- [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
+- [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+- [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) - Custom firmware for Yi 1080p camera based on Allwinner platform
+- [roleoroleo/yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar) - Custom firmware for Yi 1080p camera based on MStar platform
+- [yangr0/BlackPhish](https://github.com/yangr0/BlackPhish) - 
+- [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
+- [Ignitetechnologies/Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) - This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
+- [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
+- [Jiiks/BetterDiscordApp](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 
 ## hacking 
 
@@ -7878,7 +7905,7 @@
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [zigpy/zha-device-handlers](https://github.com/zigpy/zha-device-handlers) - ZHA device handlers bridge the functionality gap created when manufacturers deviate from the ZCL specification, handling deviations and exceptions by parsing custom messages to and from Zigbee devices
 - [YACReader/yacreader](https://github.com/YACReader/yacreader) - This repo contains the code of YACReader's desktop version.
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus
@@ -8167,7 +8194,6 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [carbon-design-system/carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
-- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -9930,7 +9956,7 @@
 
 ## jupyter-notebook 
 
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [almond-sh/almond](https://github.com/almond-sh/almond) - A Scala kernel for Jupyter
 - [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
@@ -10041,7 +10067,7 @@
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [nianticlabs/venator](https://github.com/nianticlabs/venator) - A flexible threat detection platform that simplifies rule management and deployment using K8s CronJob and Helm, but can also run standalone or with other job schedulers like Nomad.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
 - [glasskube/gitops-template](https://github.com/glasskube/gitops-template) - ArgoCD based GitOps template with preconfigured Glasskube Package Manager and an example application.
 - [jpetazzo/registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
@@ -10607,7 +10633,7 @@
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [z-------------/CPod](https://github.com/z-------------/CPod) - (UNMAINTAINED) A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
@@ -11126,7 +11152,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 - [amoffat/manifest](https://github.com/amoffat/manifest) - Call an LLM like a function ✨
@@ -11474,7 +11500,7 @@
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [krea-ai/flux-krea](https://github.com/krea-ai/flux-krea) - Official GitHub repository for FLUX.1 Krea [dev].
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
@@ -11504,11 +11530,10 @@
 - [tcsenpai/spacellama](https://github.com/tcsenpai/spacellama) - 
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [lakehq/sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads.
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
 - [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 - [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward image/video/audio diffusion models.
@@ -11746,7 +11771,7 @@
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [TheDen/gcopy](https://github.com/TheDen/gcopy) - Copy data to your clipboard via the command line (including images, archive files, videos etc.) 📋
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [z-------------/CPod](https://github.com/z-------------/CPod) - (UNMAINTAINED) A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
@@ -12130,7 +12155,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [QuantGeekDev/mcp-framework](https://github.com/QuantGeekDev/mcp-framework) - The Typescript MCP Framework
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [ssut/Remote-MCP](https://github.com/ssut/Remote-MCP) - A type-safe solution to remote MCP communication, enabling effortless integration for centralized management of Model Context.
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -12776,7 +12801,7 @@
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
@@ -13403,7 +13428,7 @@
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
@@ -13474,7 +13499,7 @@
 - [neferdata/allms](https://github.com/neferdata/allms) - allms: One Rust Library to rule them aLLMs
 - [graniet/rllm](https://github.com/graniet/rllm) - Use multiple LLM backends in a single crate, simple builder-based configuration, and built-in prompt chaining & templating.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your 
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on mcp clients
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
@@ -13745,6 +13770,11 @@
 
 ## others 
 
+- [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
+- [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) - Plasma shell for TVs
+- [boatbod/op25](https://github.com/boatbod/op25) - Fork of osmocom OP25 by boatbod
+- [REDSIM/VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
+- [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer) - Repository hosting the bluehammer vulnerability
 - [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
 - [vrctxl/VideoTXL](https://github.com/vrctxl/VideoTXL) - Sync and local video players for VRChat with design consideration for events.
 - [benkuper/Chataigne](https://github.com/benkuper/Chataigne) - Artist-friendly Modular Machine for Art and Technology
@@ -14325,7 +14355,6 @@
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 - [AshDevFr/discourse-mcp-server](https://github.com/AshDevFr/discourse-mcp-server) - 
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
-- [smithery-ai/sdk](https://github.com/smithery-ai/sdk) - Smithery helps AI agents access external services via a unified gateway.
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers and skills for agents
 - [LibreChat-AI/librechat.ai](https://github.com/LibreChat-AI/librechat.ai) - librechat.ai
 - [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get) - 
@@ -14470,7 +14499,7 @@
 - [moritz-h/urls-list](https://github.com/moritz-h/urls-list) - Firefox Add-on to list URLs. Install here: https://addons.mozilla.org/addon/urls-list/
 - [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
-- [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
+- [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
@@ -17310,10 +17339,7 @@
 - [malpedia/feedback](https://github.com/malpedia/feedback) - Public Issue tracker to gather feedback for and allow discussions around Malpedia
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
-- [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
-- [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) - Custom firmware for Yi 1080p camera based on Allwinner platform
 - [shadow-1/yi-hack-v3](https://github.com/shadow-1/yi-hack-v3) - Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset
-- [roleoroleo/yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar) - Custom firmware for Yi 1080p camera based on MStar platform
 - [luckylz2git/XiaoYiCamera](https://github.com/luckylz2git/XiaoYiCamera) - XiaoYi Sport Camera related commands and scripts
 - [absolute-quantum/cats-blender-plugin](https://github.com/absolute-quantum/cats-blender-plugin) - :smiley_cat: A tool designed to shorten steps needed to import and optimize models into VRChat. Compatible models are: MMD, XNALara, Mixamo, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max 
 - [vaab/colour](https://github.com/vaab/colour) - Python color representations manipulation library (RGB, HSL, web, ...)
@@ -19113,7 +19139,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
@@ -19225,7 +19251,7 @@
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The notes app that respects your privacy. Local-first. Open-source. No tracking.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Mirror of https://codeberg.org/tenacityteam/tenacity. Pull requests are IGNORED!
 - [bricks-cloud/BricksLLM](https://github.com/bricks-cloud/BricksLLM) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI,
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -19563,7 +19589,7 @@
 - [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python.
 - [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [AndyTheFactory/newspaper4k](https://github.com/AndyTheFactory/newspaper4k) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [xxanqw/justdd](https://github.com/xxanqw/justdd) - A simple, open-source tool to write Linux and Windows ISO images to USB drives.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
@@ -19699,7 +19725,7 @@
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
 - [C-Naoki/image-stitcher](https://github.com/C-Naoki/image-stitcher) - This is a python implementation for stitching images.
 - [huggingface/llm_training_handbook](https://github.com/huggingface/llm_training_handbook) - An open collection of methodologies to help with successful training of large language models.
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
@@ -20857,7 +20883,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [Ai00-X/ai00_server](https://github.com/Ai00-X/ai00_server) - The all-in-one RWKV runtime box with embed, RAG, AI agents, and more.
 - [danny-avila/rag_api](https://github.com/danny-avila/rag_api) - ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
@@ -22504,6 +22530,7 @@
 - [chevereto/chevereto](https://github.com/chevereto/chevereto) - The mature, battle-tested, high-end, OG self-hosted image and video hosting solution trusted since 2007. Build your own Flickr or Imgur-style media sharing platform with complete control over your con
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your 
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
@@ -23206,7 +23233,7 @@
 ## statistics 
 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -23230,7 +23257,7 @@
 
 ## support 
 
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -23421,7 +23448,7 @@
 - [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [muenzpraeger/eleventy-chirpy-blog-template](https://github.com/muenzpraeger/eleventy-chirpy-blog-template) - Blog template for 11ty based on Chirpy UX
 - [krestaino/bitprint](https://github.com/krestaino/bitprint) - :closed_lock_with_key: Print your Bitwarden vault.
@@ -24216,7 +24243,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
@@ -24767,7 +24794,7 @@
 
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [theMK2k/Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Hoarder - THE media frontend for data hoarders and movie lovers
@@ -25228,7 +25255,7 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [gscept/nebula](https://github.com/gscept/nebula) - Nebula is an open-source and free-to-use modern C++ game engine.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [z-------------/CPod](https://github.com/z-------------/CPod) - (UNMAINTAINED) A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
