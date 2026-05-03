@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       # Minimum Python 3.10 https://github.com/maguowei/starred/blob/master/pyproject.toml
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: |
