@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     #timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       # Minimum Python 3.10 https://github.com/maguowei/starred/blob/master/pyproject.toml
       - uses: actions/setup-python@v5
         with:
