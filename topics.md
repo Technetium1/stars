@@ -1654,6 +1654,7 @@
 
 ## automation 
 
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [alper-han/CrossMacro](https://github.com/alper-han/CrossMacro) - CrossMacro is a cross-platform mouse and keyboard macro recorder and player with macro editor, text expansion, shortcuts, and scheduling
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [umputun/ralphex](https://github.com/umputun/ralphex) - Extended Ralph loop for autonomous AI-driven plan execution
@@ -7199,7 +7200,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [cube2222/cuttlefish](https://github.com/cube2222/cuttlefish) - Desktop ChatGPT-based Assistant that uses Tools
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -7339,6 +7340,7 @@
 
 ## golang 
 
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
 - [ENTERPILOT/GoModel](https://github.com/ENTERPILOT/GoModel) - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tr
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -7565,7 +7567,7 @@
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [cube2222/cuttlefish](https://github.com/cube2222/cuttlefish) - Desktop ChatGPT-based Assistant that uses Tools
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar. Use it to define, enforce, query, and audit application authorization and access control.
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -14013,13 +14015,13 @@
 
 ## others 
 
+- [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data) - [WIP] machine-readable data for awesome-sysadmin
 - [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - Universal games launcher powered by luau scripts with in-house APIs
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 - [GuySandler/CanvasRefined](https://github.com/GuySandler/CanvasRefined) - Dark mode, better todo list, GPA calculator, and more for Canvas
 - [frankcrawford/it87](https://github.com/frankcrawford/it87) - 
-- [musqz/forum-scout](https://github.com/musqz/forum-scout) - Arch Focussed Forum Search Tool
 - [musqz/forum-scout-qt](https://github.com/musqz/forum-scout-qt) - Qt/PyQt6 port of Forum Scout — multi-forum search tool for KDE and Qt-based desktops
 - [openrdap/rdap](https://github.com/openrdap/rdap) - RDAP command line client
 - [icann/icann-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
@@ -20073,7 +20075,7 @@
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, E2E testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Includes many tools.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
 - [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform
@@ -21392,6 +21394,7 @@
 
 ## react 
 
+- [calagopus/panel](https://github.com/calagopus/panel) - Pterodactyl alternative written in Rust + React with User Experience in Mind.
 - [eigenpal/docx-editor](https://github.com/eigenpal/docx-editor) - Open-source WYSIWYG .docx editor library with canonical OOXML, tracked changes, and real-time collaboration.
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
@@ -21936,6 +21939,7 @@
 
 ## rust 
 
+- [calagopus/panel](https://github.com/calagopus/panel) - Pterodactyl alternative written in Rust + React with User Experience in Mind.
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [BurntSushi/bttf](https://github.com/BurntSushi/bttf) - A command line tool for datetime arithmetic, parsing, formatting and more.
@@ -22834,6 +22838,8 @@
 
 ## self-hosted 
 
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [craigmccaskill/posthorn](https://github.com/craigmccaskill/posthorn) - Self-hosted email gateway between your apps and a transactional mail provider (Postmark, Resend, Mailgun, AWS SES, or outbound-SMTP). Three ingress shapes (HTTP form, HTTP API, SMTP). One Docker conta
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.
