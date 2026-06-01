@@ -2617,6 +2617,7 @@
 
 ## Go 
 
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 - [openrdap/rdap](https://github.com/openrdap/rdap) - RDAP command line client
@@ -3166,7 +3167,7 @@
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [BourgeoisBear/amdacli](https://github.com/BourgeoisBear/amdacli) - Amcrest / Dahua HTTP API Client
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
@@ -5652,6 +5653,7 @@
 
 ## Makefile 
 
+- [awesome-foss/awesome-sysadmin-data](https://github.com/awesome-foss/awesome-sysadmin-data) - [WIP] machine-readable data for awesome-sysadmin
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [PartialVolume/shredos.x86_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
@@ -6678,7 +6680,6 @@
 
 ## Python 
 
-- [musqz/forum-scout](https://github.com/musqz/forum-scout) - Arch Focussed Forum Search Tool
 - [musqz/forum-scout-qt](https://github.com/musqz/forum-scout-qt) - Qt/PyQt6 port of Forum Scout — multi-forum search tool for KDE and Qt-based desktops
 - [JuliusBrussee/cavegemma](https://github.com/JuliusBrussee/cavegemma) - LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [Hogjects/Lufus](https://github.com/Hogjects/Lufus) - A modern and easy to use drive imaging and formatting utility inspired from Rufus and written in python for Linux-based systems
@@ -7320,7 +7321,7 @@
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, E2E testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Includes many tools.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
@@ -9510,6 +9511,7 @@
 
 ## Rust 
 
+- [calagopus/panel](https://github.com/calagopus/panel) - Pterodactyl alternative written in Rust + React with User Experience in Mind.
 - [an-anime-team/anime-games-launcher](https://github.com/an-anime-team/anime-games-launcher) - Universal games launcher powered by luau scripts with in-house APIs
 - [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
@@ -10986,6 +10988,7 @@
 
 ## TypeScript 
 
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Database-Backed Durable TypeScript Workflows
 - [stagas/hallucinate](https://github.com/stagas/hallucinate) - Massively Multiplayer Online Rave
 - [tinycld/drive](https://github.com/tinycld/drive) - @tinycld/drive — TinyCld feature package
