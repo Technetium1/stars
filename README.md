@@ -3938,7 +3938,6 @@
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
-- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere
 - [w3c/epubcheck](https://github.com/w3c/epubcheck) - The conformance checker for EPUB publications
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
@@ -5735,6 +5734,7 @@
 
 ## NSIS 
 
+- [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
 - [ugetdm/uget-windows-installer](https://github.com/ugetdm/uget-windows-installer) - uGet Installer for Windows
 
@@ -7087,7 +7087,7 @@
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [M3rcuryLake/Nyxelf](https://github.com/M3rcuryLake/Nyxelf) - Nyxelf is a highly effective tool tailored for analyzing malicious Linux ELF binaries, offering comprehensive support for both static and dynamic analysis techniques.
 - [SonyResearch/micro_diffusion](https://github.com/SonyResearch/micro_diffusion) - Official repository for our work on micro-budget training of large-scale diffusion models.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source GenBI: let your AI agents generate, deploy, and govern dashboards from any database, grounded in a context layer they can trust.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [django-commons/django-unicorn](https://github.com/django-commons/django-unicorn) - The magical reactive component framework for Django ✨
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
@@ -8011,7 +8011,7 @@
 - [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - RAG based tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+- [jupytext/jupytext](https://github.com/jupytext/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).
@@ -8469,7 +8469,6 @@
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [kuche1/minq-ananicy](https://github.com/kuche1/minq-ananicy) - Minq Ananicy - is Another auto nice daemon, with community rules support
 - [tobixen/thrash-protect](https://github.com/tobixen/thrash-protect) - Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing
-- [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
 - [Pext/Pext](https://github.com/Pext/Pext) - Python-based extendable tool
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [david-a-wheeler/flawfinder](https://github.com/david-a-wheeler/flawfinder) - a static analysis tool for finding vulnerabilities in C/C++ source code
@@ -9676,7 +9675,7 @@
 - [CADmium-Co/CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [fastn-stack/kulfi](https://github.com/fastn-stack/kulfi) - kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet. https://malai.sh: Command Line Toolkit for fastn-net.
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
@@ -10506,6 +10505,7 @@
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [jpetazzo/registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...)
 - [NicolasT/static-container-registry](https://github.com/NicolasT/static-container-registry) - Tools to construct a read-only container 'registry' served by plain Nginx
+- [syncliteio/SyncLite](https://github.com/syncliteio/SyncLite) - SyncLite : Build Anything Sync Anywhere
 - [not-a-feature/wd_ssd_firmware_update](https://github.com/not-a-feature/wd_ssd_firmware_update) - Updates the firmware of Western Digital SSDs on Ubuntu / Linux Mint.
 - [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm) - RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
 - [forza91/AffinityPhoto2Linux](https://github.com/forza91/AffinityPhoto2Linux) - Affinity Photo/Designer installer for Linux/Debian12
@@ -11056,7 +11056,7 @@
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [sourcey/sourcey](https://github.com/sourcey/sourcey) - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby..
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [vadimmelnicuk/meo](https://github.com/vadimmelnicuk/meo) - An optimized markdown editor with live editing mode for VS Code.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [muni-town/roomy](https://github.com/muni-town/roomy) - Gardenable group chats in the Atmosphere.
@@ -11404,7 +11404,7 @@
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [chaotic-cx/chaotic-next](https://github.com/chaotic-cx/chaotic-next) - Website and backend-related projects of Chaotic-AUR 🚀
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
-- [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
+- [opral/inlang](https://github.com/opral/inlang) - The open format TMS (translation management system)
 - [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -12124,7 +12124,7 @@
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
