@@ -3281,7 +3281,7 @@
 - [kiteco/kiteco-public](https://github.com/kiteco/kiteco-public) - Primary Kite repo — private bits replaced with XXXXXXX
 - [anatol/pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [yann-shi/dht](https://github.com/yann-shi/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -7353,13 +7353,13 @@
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [ieasybooks/tahweel](https://github.com/ieasybooks/tahweel) - تحويل ملفات PDF إلى DOCX و TXT
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhances Tesseract OCR output using LLMs (local or API) for error correction, smart chunking, and markdown formatting of scanned PDFs
-- [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
+- [ATH-MaaS/Ovis](https://github.com/ATH-MaaS/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes bot-detection via CDP Mode, which can make Playwright stealthy.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
@@ -10048,7 +10048,7 @@
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
-- [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
+- [everydaythingssoftware/citadel](https://github.com/everydaythingssoftware/citadel) - Manage your ebook library without frustrations. Calibre compatible.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [w4/rgit](https://github.com/w4/rgit) - 🏯 blazingly fast web frontend for git repositories
@@ -10622,7 +10622,7 @@
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [smaknsk/servicectl](https://github.com/smaknsk/servicectl) - Control services (daemons) for systemd in chroot environment
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [superdesk/superdesk](https://github.com/superdesk/superdesk) - Superdesk is an end-to-end news creation, production, curation, distribution, and publishing platform.
 - [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
