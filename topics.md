@@ -182,6 +182,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -2190,7 +2191,7 @@
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -2694,7 +2695,7 @@
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [dmwyatt/gh_repo_download](https://github.com/dmwyatt/gh_repo_download) - download and view the contents of a GitHub repository or a ZIP file as a single text file
-- [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
+- [ATH-MaaS/Ovis](https://github.com/ATH-MaaS/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
 - [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The library to build & auto-optimize LLM applications.
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
 - [mezbaul-h/june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and  Coqui TTS Toolkit
@@ -2725,7 +2726,7 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [efJerryYang/chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli) - A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key.
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
@@ -2853,7 +2854,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 - [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using LLM
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [efJerryYang/chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli) - A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key.
 - [cgsvv/AISubtitle](https://github.com/cgsvv/AISubtitle) - AI subtiltle tool. Translate your subtitle with GPT.  使用chatGPT来翻译你的字幕
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
@@ -2889,7 +2890,7 @@
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [GraesonB/ChatGPT-Wrapper-For-Unity](https://github.com/GraesonB/ChatGPT-Wrapper-For-Unity) - A ChatGPT API wrapper for Unity
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [cgsvv/AISubtitle](https://github.com/cgsvv/AISubtitle) - AI subtiltle tool. Translate your subtitle with GPT.  使用chatGPT来翻译你的字幕
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -3275,7 +3276,7 @@
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [efJerryYang/chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli) - A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key.
 - [ronin-rb/ronin](https://github.com/ronin-rb/ronin) - Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd-party git rep
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
@@ -7285,7 +7286,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [yann-shi/dht](https://github.com/yann-shi/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
@@ -10631,6 +10632,15 @@
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+## learn-to-code 
+
+- [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript 📗💻📖
+- [gilesknap/mciwb](https://github.com/gilesknap/mciwb) - Minecraft Interactive world builder
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art t
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## learning 
 
@@ -15857,7 +15867,7 @@
 - [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver) - Python's http.server extended to include a file upload page
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
-- [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
+- [everydaythingssoftware/citadel](https://github.com/everydaythingssoftware/citadel) - Manage your ebook library without frustrations. Calibre compatible.
 - [desultory/hid_ups](https://github.com/desultory/hid_ups) - Python library for interfacing with HID UPSs
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [jkulesza/usbreset](https://github.com/jkulesza/usbreset) - 
@@ -20191,7 +20201,7 @@
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes bot-detection via CDP Mode, which can make Playwright stealthy.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
 - [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform
@@ -22493,6 +22503,7 @@
 - [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
@@ -23388,7 +23399,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -24147,7 +24158,7 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
@@ -26193,7 +26204,6 @@
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [TinyVG/sdk](https://github.com/TinyVG/sdk) - TinyVG software development kit
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
@@ -26213,7 +26223,7 @@
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
