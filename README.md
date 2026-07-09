@@ -230,7 +230,6 @@
 - [AnthonyMusgrove/Emby-ScripterX](https://github.com/AnthonyMusgrove/Emby-ScripterX) - Run custom external application or script (batch/bash/powershell/php/python/node.js/custom) on various events within the Emby Server.
 - [bleachbit/cleanerml](https://github.com/bleachbit/cleanerml) - System cleaners written in CleanerML used by BleachBit.  Free disk space and maintain privacy.
 - [appzer/contacam-pushsafer](https://github.com/appzer/contacam-pushsafer) - How to send push-notifications out of ContaCam
-- [vokins/yhosts](https://github.com/vokins/yhosts) - AD hosts爱好群，群号:201973909；无限期暂停更新。劝君更尽一杯酒，西出阳关无故人。莫愁前路无知己，天下谁人不识君。
 
 ## BitBake 
 
@@ -325,7 +324,7 @@
 - [eworm-de/pacredir](https://github.com/eworm-de/pacredir) - redirect pacman requests, assisted by mDNS service discovery
 - [ligurio/luzer](https://github.com/ligurio/luzer) - A coverage-guided, native Lua fuzzing engine.
 - [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) - Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -2638,6 +2637,8 @@
 
 ## Go 
 
+- [termermc/FriendNet](https://github.com/termermc/FriendNet) - File sharing for friends, like a mini-Soulseek. No port forwarding needed!
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
@@ -3377,7 +3378,7 @@
 - [mgerb/top-of-reddit](https://github.com/mgerb/top-of-reddit) - Top Reddit posts every day.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
 - [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning
@@ -4949,7 +4950,6 @@
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [everestpipkin/image-scrubber](https://github.com/everestpipkin/image-scrubber) - A friendly browser-based tool for anonymizing photographs taken at protests
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [TiddlyWiki/TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
@@ -6317,6 +6317,7 @@
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [jonasjacek/robots.txt](https://github.com/jonasjacek/robots.txt) - Simple robots.txt template. Keep unwanted robots out (disallow). White lists (allow) legitimate user-agents. Useful for all websites.
+- [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [Technetium1/TinychatTheme](https://github.com/Technetium1/TinychatTheme) - Aesthetically pleasing theme for Tinychat with dark mode, notifications, and a focus on text readability & performance.
 - [gifs/api](https://github.com/gifs/api) - The gifs public API documentation and example applications
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
@@ -6329,6 +6330,7 @@
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [0xICF/SCADAShutdownTool](https://github.com/0xICF/SCADAShutdownTool) - 
 - [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+- [vokins/yhosts](https://github.com/vokins/yhosts) - yhosts
 - [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [crdroidandroid/crdroid_features](https://github.com/crdroidandroid/crdroid_features) - our main features (why you love us)
@@ -9012,6 +9014,7 @@
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [disclose/diodb](https://github.com/disclose/diodb) - Open-source vulnerability disclosure and bug bounty program database
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [architdate/drivedl](https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
@@ -9556,6 +9559,7 @@
 
 ## Rust 
 
+- [bruits/satteri](https://github.com/bruits/satteri) - High-performance Markdown and MDX processing for the JavaScript ecosystem
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -10046,7 +10050,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [tantaraio/voy](https://github.com/tantaraio/voy) - 🕸️🦀 A WASM vector similarity search written in Rust
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -12119,7 +12123,6 @@
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [powercord-org/powercord-backend](https://github.com/powercord-org/powercord-backend) - The backend for https://github.com/powercord-org/powercord
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
-- [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [zerebos/BetterDiscordAddons](https://github.com/zerebos/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
