@@ -798,7 +798,6 @@
 - [aanarchyy/bully](https://github.com/aanarchyy/bully) - 
 - [Duncaen/OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
-- [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) - Linux distribution optimized for audio playback
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [Aanok/jftui](https://github.com/Aanok/jftui) - Jellyfin Terminal User Interface
@@ -2471,7 +2470,7 @@
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [flutter-team-archive/plugins](https://github.com/flutter-team-archive/plugins) - Plugins for Flutter maintained by the Flutter team
-- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - A Jellyfin music client for mobile
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
@@ -2812,7 +2811,6 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and test data management
 - [dalibo/ldap2pg](https://github.com/dalibo/ldap2pg) - :elephant: :busts_in_silhouette: Manage PostgreSQL roles and privileges from YAML or LDAP
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
@@ -5352,6 +5350,7 @@
 - [google/zimtohrli](https://github.com/google/zimtohrli) - 
 - [otroshi/edgeface](https://github.com/otroshi/edgeface) - EdgeFace: Efficient Face Recognition Model for Edge Devices [TBIOM 2024]  🏆 Winner of compact track of IJCB 2023 Efficient Face Recognition Competition
 - [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoder for Amateur satellites
+- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [futo-org/whisper-acft](https://github.com/futo-org/whisper-acft) - 
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
@@ -6297,7 +6296,7 @@
 - [100apps/charles-hacking](https://github.com/100apps/charles-hacking) - Hacking Charles Web Debugging Proxy
 - [getnikola/shortcodes](https://github.com/getnikola/shortcodes) - Shortcodes for Nikola.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [Defacto2/database](https://github.com/Defacto2/database) - The database conserving defunct software, wares, and elite digital subcultures of the PC.
+- [Defacto2/database](https://github.com/Defacto2/database) - The database for Defacto2, a website conserving defunct software, wares, and elite digital subcultures of the PC.
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [omdbapi/OMDb-API](https://github.com/omdbapi/OMDb-API) - The Open Movie Database Bug Tracking
 - [AlbertoDorado/droid-sans-mono-zeromod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod) - 'Droid Sans Mono' font modified with a dotted or a slashed zero
@@ -6455,7 +6454,6 @@
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
-- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
@@ -6838,7 +6836,6 @@
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
-- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python.
 - [gavrielc/Nano-PDF](https://github.com/gavrielc/Nano-PDF) - Edit PDF files with Nano Banana
@@ -6972,6 +6969,7 @@
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
 - [Intelligent-Internet/ii-agent](https://github.com/Intelligent-Internet/ii-agent) - II-Agent: a new open-source framework to build and deploy intelligent agents
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 - [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models for General Time Series Analysis.
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
@@ -7568,9 +7566,9 @@
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [nkasmanoff/pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
 - [Backblaze/b2-sdk-python](https://github.com/Backblaze/b2-sdk-python) - Python library to access B2 cloud storage.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [basicswap/basicswap](https://github.com/basicswap/basicswap) - Basic Atomic Swap Proof of Concept
-- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
+- [mljar/mercury](https://github.com/mljar/mercury) - Impress your boss and turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
@@ -10019,7 +10017,7 @@
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.
 - [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
@@ -10662,7 +10660,7 @@
 - [simoniz0r/deb2appimage](https://github.com/simoniz0r/deb2appimage) - Build AppImages from deb packages on any distro with simple json configuration
 - [kevinlynx/dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [hyperion-project/HyperBian](https://github.com/hyperion-project/HyperBian) - Hyperion pre installed on Raspberry Pi OS Lite
-- [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
+- [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - Bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
 - [RaptaG/CAAIS](https://github.com/RaptaG/CAAIS) - A bash script to install and/or remove Chaotic-AUR.
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -10749,6 +10747,7 @@
 - [HereInPlainSight/gshade_installer](https://github.com/HereInPlainSight/gshade_installer) - GShade Installer / Updater Bash Script for Linux
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
+- [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) - Linux distribution optimized for audio playback
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [tombolano/pdfcat.sh](https://github.com/tombolano/pdfcat.sh) - Bash script to concatenate PDFs using LaTeX with the pdfpages package, also allowing to specify sections, subsections, and to create a table of contents.
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
@@ -10779,7 +10778,7 @@
 - [RackunSec/Demon-App-Store](https://github.com/RackunSec/Demon-App-Store) - 😈 The Demon App Store
 - [RackunSec/dciso](https://github.com/RackunSec/dciso) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux)
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
-- [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux and Ubuntu.
+- [leebaird/discover](https://github.com/leebaird/discover) - Custom Bash and Python scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux and 
 - [SarKaa/jailm8](https://github.com/SarKaa/jailm8) - A tool for windows users to use checkra1n without having to install a full linux distro, as well as other useful commnds
 - [YoRyan/obicaller](https://github.com/YoRyan/obicaller) - Talking caller ID for OBiTALK OBi200 and Raspberry Pi (or other Linux)
 - [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
@@ -11047,6 +11046,7 @@
 
 ## TypeScript 
 
+- [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [Justin0504/Aegis](https://github.com/Justin0504/Aegis) - Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.
 - [TuroYT/snowshare](https://github.com/TuroYT/snowshare) - A modern, secure file and link sharing platform built with Next.js, Prisma, and NextAuth. Share URLs, code snippets, and files with customizable expiration, privacy, and QR codes.
 - [rohitkumbhar/surmai](https://github.com/rohitkumbhar/surmai) - Surmai is a personal/family travel organizer
@@ -11179,7 +11179,6 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
-- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [mohyware/clip-js](https://github.com/mohyware/clip-js) - online video editor built with nextjs, remotion and ffmpeg (web assembly port) for render.
@@ -11302,6 +11301,7 @@
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - Context management for long-context LLMs, agents, and vibe coding. Instantly build context for an entire repo, selected files, folders, and GitHub issues to generate structured AI-XML context with rea
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [uwu/shelter](https://github.com/uwu/shelter) - an attempt to prepare for the worst
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [ziolko/aria-devtools](https://github.com/ziolko/aria-devtools) - Easily spot missing ARIA labels, misused ARIA roles, and incomplete keyboard support in your web applications.
@@ -11665,7 +11665,7 @@
 - [fingerprintjs/blog-macos-mdns-brute-force](https://github.com/fingerprintjs/blog-macos-mdns-brute-force) - 
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - A free open source IT asset / Equipment / management and scheduling system.
 - [cube2222/cuttlefish](https://github.com/cube2222/cuttlefish) - Desktop ChatGPT-based Assistant that uses Tools
-- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) - The modern, local-first platform for professional video surveillance — built for maximum flexibility and ease of use.
+- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) - The modern, local-first platform for professional video surveillance.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [performancecopilot/grafana-pcp](https://github.com/performancecopilot/grafana-pcp) - Performance Co-Pilot Grafana Plugin
