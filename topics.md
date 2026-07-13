@@ -454,6 +454,7 @@
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
 ## agents 
@@ -1683,6 +1684,7 @@
 
 ## automation 
 
+- [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [alper-han/CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform desktop automation app with macro recording, playback, scheduling, text expansion, CLI tools, and Wayland/X11-aware Linux support.
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -2952,7 +2954,6 @@
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents.
-- [Jasius/PiPPY](https://github.com/Jasius/PiPPY) - Native Google Chrome extension for picture in picture mode. Supports Youtube, Twitch, Mixer, Netflix, Facebook and many other platforms.
 - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -2972,7 +2973,7 @@
 - [code-charity/frame-by-frame](https://github.com/code-charity/frame-by-frame) - Frame By Frame - Chrome Extension. Us arrow keys and/or move your mouse cursor over any video to switch frames.   *only one of a kind*   *needs maintainer*  *can  be integrated into ImprovedTube for 5
 - [code-charity/looper](https://github.com/code-charity/looper) - Looper - Chrome Extension. Move your mouse cursor over any video and set loop in a portion/range.
 - [code-charity/unlock-keyboard-and-mouse](https://github.com/code-charity/unlock-keyboard-and-mouse) - HID control prevention - Chrome Extension - You don't always need to let every site take hostage your Right-Click, Ctrl+f, Clipboard or anything.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [ynshung/better-yt-shorts](https://github.com/ynshung/better-yt-shorts) - Playback, volume, timestamp controls and more on YouTube Shorts.
 - [machawk1/warcreate](https://github.com/machawk1/warcreate) - Chrome extension to "Create WARC files from any webpage"
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -3040,7 +3041,6 @@
 - [ayastreb/bandwidth-hero](https://github.com/ayastreb/bandwidth-hero) - :guardsman: Saves data by compressing images on web page
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
-- [Jasius/PiPPY](https://github.com/Jasius/PiPPY) - Native Google Chrome extension for picture in picture mode. Supports Youtube, Twitch, Mixer, Netflix, Facebook and many other platforms.
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
@@ -5189,7 +5189,7 @@
 ## discord 
 
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
-- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) - Quick, small, native, multi-platform Discord overlay alternative
+- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) - Quick, small, performant, multi-platform Discord overlay alternative
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [karlsbjorn/karlo-cogs](https://github.com/karlsbjorn/karlo-cogs) - Cogs for Red
@@ -6313,7 +6313,6 @@
 - [horstmannmat/FacebookPagePoster](https://github.com/horstmannmat/FacebookPagePoster) - Since facebook blocked all APIs to post on pages, we need to use selenium to post it automatically
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line client (needs to be updated)
-- [Jasius/PiPPY](https://github.com/Jasius/PiPPY) - Native Google Chrome extension for picture in picture mode. Supports Youtube, Twitch, Mixer, Netflix, Facebook and many other platforms.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
 ## fastapi 
@@ -11340,7 +11339,6 @@
 - [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
-- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
@@ -11389,6 +11387,7 @@
 
 ## llm 
 
+- [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [r14dd/patent](https://github.com/r14dd/patent) - A prior-art search for your code ideas — has this dev tool already been shipped?
@@ -12067,6 +12066,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [Digger1955/dxvk-gplall](https://github.com/Digger1955/dxvk-gplall) - Vulkan 1.3-based implementation of D3D8, D3D9, D3D10, D3D11 with "Async" and "Low Latency" features for real-world usage
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
@@ -12498,6 +12498,7 @@
 
 ## mcp 
 
+- [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [Justin0504/Aegis](https://github.com/Justin0504/Aegis) - Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.
 - [drhelius/Gearboy](https://github.com/drhelius/Gearboy) - Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
@@ -14166,6 +14167,7 @@
 
 ## others 
 
+- [Go08er/Proton-RTSP-Wayland-GE](https://github.com/Go08er/Proton-RTSP-Wayland-GE) - RTSP Proton 11 with a curated GE-Proton11-1 native Wayland patch set and scoped XRizer mode.
 - [amd/Quark](https://github.com/amd/Quark) - 
 - [google/visqol](https://github.com/google/visqol) - Perceptual Quality Estimator for speech and audio
 - [google/zimtohrli](https://github.com/google/zimtohrli) - 
@@ -19851,7 +19853,7 @@
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [amoffat/manifest](https://github.com/amoffat/manifest) - Call an LLM like a function ✨
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -19972,6 +19974,7 @@
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## prompt-engineering 
 
@@ -23871,6 +23874,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -25124,7 +25128,7 @@
 - [celluloid-camp/celluloid](https://github.com/celluloid-camp/celluloid) - Celluloid is an open source collaborative video annotation app for educational organizations
 - [code-charity/frame-by-frame](https://github.com/code-charity/frame-by-frame) - Frame By Frame - Chrome Extension. Us arrow keys and/or move your mouse cursor over any video to switch frames.   *only one of a kind*   *needs maintainer*  *can  be integrated into ImprovedTube for 5
 - [code-charity/looper](https://github.com/code-charity/looper) - Looper - Chrome Extension. Move your mouse cursor over any video and set loop in a portion/range.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [DisplayLink/evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [bepasty/bepasty-server](https://github.com/bepasty/bepasty-server) - universal pastebin server
@@ -25207,7 +25211,6 @@
 - [moay/afterglow](https://github.com/moay/afterglow) - HTML5 video player made easy.
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [Jasius/PiPPY](https://github.com/Jasius/PiPPY) - Native Google Chrome extension for picture in picture mode. Supports Youtube, Twitch, Mixer, Netflix, Facebook and many other platforms.
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [oddnetworks/oddworks](https://github.com/oddnetworks/oddworks) - [MIRROR]
@@ -26202,7 +26205,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [ynshung/better-yt-shorts](https://github.com/ynshung/better-yt-shorts) - Playback, volume, timestamp controls and more on YouTube Shorts.
 - [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator) - AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) to automatically analyze videos, extract the most interesting sections, and crop them for improved v
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
@@ -26280,7 +26283,6 @@
 - [roshanlam/UTube2Mp3](https://github.com/roshanlam/UTube2Mp3) - Dumps youtube playlist into mp3
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your YouTube experience
-- [Jasius/PiPPY](https://github.com/Jasius/PiPPY) - Native Google Chrome extension for picture in picture mode. Supports Youtube, Twitch, Mixer, Netflix, Facebook and many other platforms.
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - A YouTube bot for Discord written in Python using discord.py!
