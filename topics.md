@@ -923,7 +923,7 @@
 ## ai-agents 
 
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
-- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Disposable, network-restricted Linux VMs for AI coding agents
+- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [Justin0504/Aegis](https://github.com/Justin0504/Aegis) - Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, kill switch. Zero code changes.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1498,7 +1498,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 - [Beyarz/Cve-api](https://github.com/Beyarz/Cve-api) - Unofficial api for cve.mitre.org
@@ -2283,7 +2283,7 @@
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [FungibilityMatters/MoneroMixer](https://github.com/FungibilityMatters/MoneroMixer) - The easiest way to use Monero to anonymously exchange and properly mix XMR, BTC, LTC, ETH, BCH, & 100+ other coins on Tails OS or Whonix.
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
@@ -2381,7 +2381,7 @@
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [NNTin/discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - 2023-03-15: Twitter API v1.1 was killed. Feel free to contribute/fork/update. Project is dead.
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [discord-movie-database/DMDb](https://github.com/discord-movie-database/DMDb) - Discord Movie Database (DMDb)
 - [3eif/CoronaCord](https://github.com/3eif/CoronaCord) - Discord bot that displays the latest coronavirus statistics. Currently serving over 5,000 communities on Discord.
 - [Merubokkusu/discord-spam-bots](https://github.com/Merubokkusu/discord-spam-bots) - Discord spam bots with multiple account support, account creator, auto-join, proxies, mass direct message and more.
@@ -3063,7 +3063,7 @@
 ## claude 
 
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
-- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Disposable, network-restricted Linux VMs for AI coding agents
+- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [patrickjaja/claude-desktop-bin](https://github.com/patrickjaja/claude-desktop-bin) - Unofficial Linux packages for Claude Desktop AI assistant with automated updates.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -3103,7 +3103,7 @@
 ## claude-code 
 
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi
-- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Disposable, network-restricted Linux VMs for AI coding agents
+- [clawkwork/clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -4068,7 +4068,7 @@
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 - [doktor83/SRBMiner-Multi](https://github.com/doktor83/SRBMiner-Multi) - CPU & GPU cryptocurrency miner
 - [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt) - RaspiBolt v3: Bitcoin & Lightning full node on a Raspberry Pi
@@ -6279,7 +6279,7 @@
 - [FungibilityMatters/MoneroMixer](https://github.com/FungibilityMatters/MoneroMixer) - The easiest way to use Monero to anonymously exchange and properly mix XMR, BTC, LTC, ETH, BCH, & 100+ other coins on Tails OS or Whonix.
 - [openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
@@ -8212,6 +8212,7 @@
 
 ## hacktoberfest 
 
+- [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [Combodo/iTop](https://github.com/Combodo/iTop) - A simple, web based CMDB & IT Service Management tool
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -9532,6 +9533,7 @@
 
 ## java 
 
+- [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [helge17/tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
 - [DropSnorz/OwlPlug](https://github.com/DropSnorz/OwlPlug) - Audio plugin manager. Desktop application to manage VST / AU / LV2 plugins on Windows, MacOS and Linux.
 - [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker 
@@ -10762,7 +10764,7 @@
 - [clostra/newnode](https://github.com/clostra/newnode) - NewNode decentralized Content Distribution Network
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [linuxwacom/libwacom](https://github.com/linuxwacom/libwacom) - libwacom is a tablet description library
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 The easiest way to parse and modify URLs in Python.
 - [libexpat/libexpat](https://github.com/libexpat/libexpat) - :herb: Fast streaming XML parser written in C99 with &gt;90% test coverage; moved from SourceForge to GitHub
@@ -12628,6 +12630,7 @@
 
 ## minecraft 
 
+- [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [calagopus/panel](https://github.com/calagopus/panel) - A modern game server management panel built in Rust. Deploy, monitor, and manage Minecraft, Rust, and other game servers with industry-leading performance.
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
@@ -13567,7 +13570,7 @@
 
 ## nosql 
 
-- [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID transactions.
+- [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID transactions. YTDB supports both embedded 
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -14028,7 +14031,7 @@
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 - [efJerryYang/chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli) - A markdown-supported command-line interface tool that connects to ChatGPT using OpenAI's API key.
 - [cgsvv/AISubtitle](https://github.com/cgsvv/AISubtitle) - AI subtiltle tool. Translate your subtitle with GPT.  使用chatGPT来翻译你的字幕
-- [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
+- [briansunter/logseq-openai](https://github.com/briansunter/logseq-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -14835,7 +14838,7 @@
 - [OpenGVLab/Vision-RWKV](https://github.com/OpenGVLab/Vision-RWKV) - [ICLR 2025 Spotlight] Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures
 - [cryscan/web-rwkv](https://github.com/cryscan/web-rwkv) - Implementation of the RWKV language model in pure WebGPU/Rust.
 - [tauraamui/lilly](https://github.com/tauraamui/lilly) - TUI editor and VIM/Neovim alternative
-- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
+- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - An open source, modern, simpler & safer alternative to Wii U USB Helper
 - [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
 - [akatrevorjay/edid-generator](https://github.com/akatrevorjay/edid-generator) - Hackerswork to generate an EDID blob from given Xorg Modelines, complete with valid checksum.
 - [ROCm/aiter](https://github.com/ROCm/aiter) - AI Tensor Engine for ROCm
@@ -16469,7 +16472,7 @@
 - [anvaka/map-of-github-data](https://github.com/anvaka/map-of-github-data) - This repository contains tiles and data for the map of github
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [starev-org/Exploits](https://github.com/starev-org/Exploits) - 
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling) - Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.
 - [ColinEberhardt/langchain-mini](https://github.com/ColinEberhardt/langchain-mini) - 🦜️🔗 This is a very simple re-implementation of LangChain, in ~100 lines of code
@@ -18775,8 +18778,6 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [standardnotes/mobile](https://github.com/standardnotes/mobile) - [Moved to https://github.com/standardnotes/app] Standard Notes for iOS and Android - https://standardnotes.com
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
-- [aptana/Pydev](https://github.com/aptana/Pydev) - Aptana Python IDE
-- [aptana/studio3](https://github.com/aptana/studio3) - This repository contains the code for core components of Aptana Studio 3.
 - [alohaeditor/Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library
 - [parcel-bundler/website](https://github.com/parcel-bundler/website) - 🌎 Parcel website
 - [TomasHubelbauer/webrtc-data-channel-demo](https://github.com/TomasHubelbauer/webrtc-data-channel-demo) - WebRTC Data Channel demo
@@ -24458,7 +24459,7 @@
 - [ZENALC/algobot](https://github.com/ZENALC/algobot) - Cryptocurrency trading bot with a graphical user interface with support for simulations, backtests, optimizations, and running live bots.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [radioman/polymarket-arbitrage-trading-bot](https://github.com/radioman/polymarket-arbitrage-trading-bot) - Polymarket arbitrage trading bot tool for BTC and ETH 5-minute prediction markets with automated execution, real-time analytics, and smart wallet copy trading. Polymarket trading bot  Polymarket tradi
 
 ## tui 
@@ -24835,7 +24836,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
+- [briansunter/logseq-openai](https://github.com/briansunter/logseq-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [contember/interface-archive](https://github.com/contember/interface-archive) - Archive of Contember Interface 1.x.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
