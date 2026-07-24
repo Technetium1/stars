@@ -249,6 +249,7 @@
 
 ## C 
 
+- [ziman/rarcrack](https://github.com/ziman/rarcrack) - [unofficial fork] RAR bruteforce cracker
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
 - [gmn/nanotts](https://github.com/gmn/nanotts) - Improved SVOX PicoTTS speech synthesizer
 - [kilobyte/compsize](https://github.com/kilobyte/compsize) - btrfs: find compression type/ratio on a file or set of files
@@ -1455,7 +1456,7 @@
 - [Jojo-Schmitz/MuseScore](https://github.com/Jojo-Schmitz/MuseScore) - MuseScore is a open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [ratwithacompiler/OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
 - [GPUOpen-LibrariesAndSDKs/FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.
 - [falconindy/expac](https://github.com/falconindy/expac) - alpm data extraction utility
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -1529,7 +1530,7 @@
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [uwzis/GPU-Passthrough-Manager](https://github.com/uwzis/GPU-Passthrough-Manager) - GPU passthrough made easy.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68453, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SeongGino/Nero-umu](https://github.com/SeongGino/Nero-umu) - A fast and efficient umu manager, just as the Romans designed.
 - [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [Aegisub/Aegisub](https://github.com/Aegisub/Aegisub) - Cross-platform advanced subtitle editor
@@ -1745,7 +1746,7 @@
 - [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++, supported txt2img and img2img
 - [underpig1/octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows :rocket: Available on the Microsoft Store
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM and RedM, as well as FXServer.
+- [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx modification frameworks, such as FiveM and RedM, as well as FXServer.
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
@@ -2685,7 +2686,7 @@
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - The verification layer for coding agents
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
@@ -2884,7 +2885,7 @@
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 - [evanrolfe/trayce_agent](https://github.com/evanrolfe/trayce_agent) - 
@@ -2998,13 +2999,13 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://tty.fail/mrus/superhighway84)
 - [dhth/prs](https://github.com/dhth/prs) - Stay updated on PRs from your terminal
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [matteo-pacini/RadioGoGo](https://github.com/matteo-pacini/RadioGoGo) - 📻 Go-powered CLI to surf global radio waves via a sleek TUI. Tune in & let's Go 🚀!
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
@@ -3737,7 +3738,6 @@
 - [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
 - [leakuidatorplusteam/leakuidatorplusteam.github.io](https://github.com/leakuidatorplusteam/leakuidatorplusteam.github.io) - blog post
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [holtzy/D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) - A collection of simple graphics made with D3.js
 - [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -3924,6 +3924,7 @@
 
 ## Java 
 
+- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb) - YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID transactions. YTDB supports both embedded 
 - [helge17/tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
@@ -4548,7 +4549,6 @@
 - [bast/cicero](https://github.com/bast/cicero) - Project continues at https://tangled.org/radovan.xyz/cicero
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - 🧘‍♂️ Open-source no-code & code web app builder
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [ihucos/counter.dev](https://github.com/ihucos/counter.dev) - Web Analytics made simple
 - [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
@@ -4666,6 +4666,7 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [leakuidatorplusteam/LeakuidatorPlus](https://github.com/leakuidatorplusteam/LeakuidatorPlus) - Leakuidator+ helps users to protect themselves against cross-site leaks, a class of vulnerabilities derived from side-channels built into the web platform.
 - [mjmartis/discord_web_sys_ptt](https://github.com/mjmartis/discord_web_sys_ptt) - Chrome extension that allows push-to-talk from any tab to the Discord web client.
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [antimatter15/ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -7293,7 +7294,7 @@
 - [punnerud/Local_Knowledge_Graph](https://github.com/punnerud/Local_Knowledge_Graph) - 
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [gpt-omni/mini-omni](https://github.com/gpt-omni/mini-omni) - open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.
-- [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
+- [BayLing-Models/BayLing-Speech](https://github.com/BayLing-Models/BayLing-Speech) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -9575,6 +9576,10 @@
 
 ## Rust 
 
+- [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
+- [beacn-on-linux/beacn-utility](https://github.com/beacn-on-linux/beacn-utility) - A tool for configuring Beacn devices on Linux
+- [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
+- [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken) - Language model tokenization at GB/s
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
@@ -11752,6 +11757,7 @@
 - [vishnumenon/ermine-ai](https://github.com/vishnumenon/ermine-ai) - https://ermine.ai -- 100% client-side live audio transcription, powered by transformers.js
 - [Venthe/vscode-fauxpilot](https://github.com/Venthe/vscode-fauxpilot) - 
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [drorm/gish](https://github.com/drorm/gish) - GPT command line
