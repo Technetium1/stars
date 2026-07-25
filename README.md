@@ -342,7 +342,7 @@
 - [fdupoux/fsarchiver](https://github.com/fdupoux/fsarchiver) - file system archiver for linux
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [oerg866/win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [lwfinger/rtw89](https://github.com/lwfinger/rtw89) - Driver for Realtek 8852AE, an 802.11ax device
 - [lwfinger/rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 - [SAT-R/sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 1 & 2 - GameBoy Advance game's written in C
@@ -413,7 +413,7 @@
 - [morrownr/8821au-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
 - [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
+- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 - [debrouxl/tiemu](https://github.com/debrouxl/tiemu) - TIEmu is an emulator of Texas Instruments hand-helds (89/89T/92/92+/V200) for Linux & Windows, written with GTK+. Features include highly accurate emulation and a graphical debugger.
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
@@ -2774,7 +2774,7 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
-- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - An open source, modern, simpler & safer alternative to Wii U USB Helper
+- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - The open-source Wii U USB Helper alternative. Download Wii U games, updates, and DLC from Nintendo's servers on Windows, macOS, and Linux, no title keys needed.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [nafey/minimalytics](https://github.com/nafey/minimalytics) - Standalone analytics app in a CLI
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -5201,7 +5201,7 @@
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [vyos-legacy/vyatta-webgui](https://github.com/vyos-legacy/vyatta-webgui) - Vyatta WebGUI
 - [hypriot/blog](https://github.com/hypriot/blog) - Repository for the Hypriot Blog
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -6718,6 +6718,7 @@
 
 ## Python 
 
+- [yannmasoch/nautilus-my-computer](https://github.com/yannmasoch/nautilus-my-computer) - My Computer for Nautilus, what GNOME Files should have always been
 - [nextgis/nextgisweb](https://github.com/nextgis/nextgisweb) - NextGIS Web is an open-source Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows.
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
@@ -6809,7 +6810,7 @@
 - [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel) - :label: Python label/sticker PDF generation. HTML templates, built-in barcodes, qr codes, and other goodies
 - [Alex16111977/1C_Zebra](https://github.com/Alex16111977/1C_Zebra) - Professional ZPL Label Designer with PySide6 GUI - Visual editor for Zebra printers
 - [whoschek/bzfs](https://github.com/whoschek/bzfs) - bzfs is a CLI built for highly reliable and scalable near real-time ZFS snapshot replication with minimal operational complexity. It reliably replicates ZFS datasets in parallel using zfs send/receive
-- [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM on Proxmox 9 — TUI wizard, auto-download, AMD+Intel, Sonoma/Sequoia/Tahoe
+- [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM on Proxmox 9: TUI wizard, auto-download, AMD + Intel, Sonoma/Sequoia/Tahoe
 - [dlk3/autokey-wayland](https://github.com/dlk3/autokey-wayland) - AutoKey, a desktop automation utility for Linux, X11 and Wayland
 - [andygmassey/telephone-and-conversation-transcriber](https://github.com/andygmassey/telephone-and-conversation-transcriber) - Real-time speech-to-text caption appliance for a deaf user. Raspberry Pi + 10" touchscreen that transcribes phone calls and room conversation in near real-time.
 - [coletdjnz/yt-dlp-getpot-wpc](https://github.com/coletdjnz/yt-dlp-getpot-wpc) - An experimental PO Token Provider for yt-dlp using the browser to mint tokens
@@ -6958,7 +6959,7 @@
 - [bulletmark/edid-rw](https://github.com/bulletmark/edid-rw) - A utility to read and write a display EDID value.
 - [resemble-ai/Perth](https://github.com/resemble-ai/Perth) - Open Audio Watermarking Tool
 - [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
-- [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+- [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [braincrew-lab/langgraph-mcp-agents](https://github.com/braincrew-lab/langgraph-mcp-agents) - LangGraph-powered ReAct agent with Model Context Protocol (MCP) integration. A Streamlit web interface for dynamically configuring, deploying, and interacting with AI agents capable of accessing vario
@@ -8227,7 +8228,7 @@
 - [arsenetar/send2trash](https://github.com/arsenetar/send2trash) - Python library to natively send files to Trash (or Recycle bin) on all platforms.
 - [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [DanH42/CatchMeIfYouCAN](https://github.com/DanH42/CatchMeIfYouCAN) - The most realistic Mario Kart 64 simulator ever
-- [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
+- [erpalma/throttled](https://github.com/erpalma/throttled) - Linux daemon for Intel CPU power limits and firmware-induced throttling.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -9576,6 +9577,7 @@
 
 ## Rust 
 
+- [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
 - [beacn-on-linux/beacn-utility](https://github.com/beacn-on-linux/beacn-utility) - A tool for configuring Beacn devices on Linux
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
@@ -9731,7 +9733,7 @@
 - [CADmium-Co/CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [fastn-stack/kulfi](https://github.com/fastn-stack/kulfi) - kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet. https://malai.sh: Command Line Toolkit for fastn-net.
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
@@ -10697,7 +10699,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 - [crodjer/watchman](https://github.com/crodjer/watchman) - Execute a command when something changes
-- [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An interactive update notifier & applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.
+- [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An interactive update notifier & applier for Arch Linux that assists you with important pre / post update tasks (including a systray applet and extensive CLI).
 - [patjak/facetimehd-firmware](https://github.com/patjak/facetimehd-firmware) - FacetimeHD firmware download and extraction tool
 - [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [hpi-swa/native-minecraft-server](https://github.com/hpi-swa/native-minecraft-server) - Use GraalVM Native Image to turn the Minecraft server into native executables that are small in footprint, fast, and cheap to deploy.
@@ -11180,7 +11182,7 @@
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [skeptrunedev/jukebox](https://github.com/skeptrunedev/jukebox) - Open Source alternative to Spotify Collaborative Playlists. Turn your device into a jukebox where a group can queue music together and fighting over aux.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
-- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - DEPRECATED
 - [YouG-o/YouTube-No-Translation](https://github.com/YouG-o/YouTube-No-Translation) - Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, and audio in their original language.
 - [markmanx/isoflow](https://github.com/markmanx/isoflow) - 
 - [excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw) - Generate Excalidraw diagrams from Mermaid
@@ -11947,7 +11949,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
